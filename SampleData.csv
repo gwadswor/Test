@@ -1,0 +1,105 @@
+﻿AssetName,BlockGroupName,Station_Code__c
+zBlock_Abbey Wood Stn Abbey Wood,zSet_QA Questions,ABW
+zBlock_Abbey Wood Stn Abbey Wood,zSet_Station,ABW
+zBlock_Abbey Wood Stn Access Route(10),zSet_Access Route,ABW
+zBlock_Abbey Wood Stn Access Route(13),zSet_Access Route,ABW
+zBlock_Abbey Wood Stn Access Route(16),zSet_Access Route,ABW
+zBlock_Abbey Wood Stn Access Route(2),zSet_Access Route,ABW
+zBlock_Abbey Wood Stn Access Route(23),zSet_Access Route,ABW
+zBlock_Abbey Wood Stn Access Route(25),zSet_Access Route,ABW
+zBlock_Abbey Wood Stn Access Route(27),zSet_Access Route,ABW
+zBlock_Abbey Wood Stn Access Route(29),zSet_Access Route,ABW
+zBlock_Abbey Wood Stn Access Route(31),zSet_Access Route,ABW
+zBlock_Abbey Wood Stn Access Route(31),zSet_Steps & Stairs,ABW
+zBlock_Abbey Wood Stn Access Route(7),zSet_Access Route,ABW
+zBlock_Abbey Wood Stn Baby changing room(37),zSet_Sanitary facilities,ABW
+zBlock_Abbey Wood Stn Bus stop(12),zSet_Bus Stop,ABW
+zBlock_Abbey Wood Stn Bus stop(26),zSet_Bus Stop,ABW
+zBlock_Abbey Wood Stn Bus stop(28),zSet_Bus Stop,ABW
+zBlock_Abbey Wood Stn Car Parking - Disabled(1),zSet_Access Parking,ABW
+zBlock_Abbey Wood Stn Car Parking - Disabled(6),zSet_Access Parking,ABW
+zBlock_Abbey Wood Stn Car Parking - Disabled(9),zSet_Access Parking,ABW
+zBlock_Abbey Wood Stn Concourse(33),zSet_Concourse,ABW
+zBlock_Abbey Wood Stn Concourse(33),zSet_Gateline,ABW
+zBlock_Abbey Wood Stn Concourse(33),zSet_Ticket - Service-Retail Vending,ABW
+zBlock_Abbey Wood Stn Concourse(34),zSet_Concourse,ABW
+zBlock_Abbey Wood Stn Concourse(34),zSet_Gateline,ABW
+zBlock_Abbey Wood Stn Concourse(34),zSet_Ticket - Service-Retail Vending,ABW
+zBlock_Abbey Wood Stn Cycle parking(30),zSet_Cycle Parking,ABW
+zBlock_Abbey Wood Stn Cycle racks(11),zSet_Cycle Parking,ABW
+zBlock_Abbey Wood Stn Cycle racks(14),zSet_Cycle Parking,ABW
+zBlock_Abbey Wood Stn Cycle racks(24),zSet_Cycle Parking,ABW
+zBlock_Abbey Wood Stn Escalator(47),zSet_Escalators & Moving Walkways,ABW
+zBlock_Abbey Wood Stn Escalator(53),zSet_Escalators & Moving Walkways,ABW
+zBlock_Abbey Wood Stn Footbridge - Covered(46),zSet_Bridge Decks,ABW
+zBlock_Abbey Wood Stn Footbridge - Covered(46),zSet_Footbridge Covered,ABW
+zBlock_Abbey Wood Stn Footbridge - Open(49),zSet_Bridge Decks,ABW
+zBlock_Abbey Wood Stn Footbridge - Open(49),zSet_Footbridge Covered,ABW
+zBlock_Abbey Wood Stn Footbridge Stairs(45),zSet_Steps & Stairs,ABW
+zBlock_Abbey Wood Stn Footbridge Stairs(48),zSet_Steps & Stairs,ABW
+zBlock_Abbey Wood Stn Footbridge Stairs(50),zSet_Steps & Stairs,ABW
+zBlock_Abbey Wood Stn Footbridge Stairs(54),zSet_Steps & Stairs,ABW
+zBlock_Abbey Wood Stn Lift(18),zSet_Lifts,ABW
+zBlock_Abbey Wood Stn Lift(19),zSet_Lifts,ABW
+zBlock_Abbey Wood Stn Lift(35),zSet_Lifts,ABW
+zBlock_Abbey Wood Stn Lift(36),zSet_Lifts,ABW
+zBlock_Abbey Wood Stn Lift(4),zSet_Lifts,ABW
+zBlock_Abbey Wood Stn Lift(5),zSet_Lifts,ABW
+zBlock_Abbey Wood Stn Platform Face(43),zSet_Platform face,ABW
+zBlock_Abbey Wood Stn Platform Face(44),zSet_Platform face,ABW
+zBlock_Abbey Wood Stn Platform Face(51),zSet_Platform face,ABW
+zBlock_Abbey Wood Stn Platform Face(52),zSet_Platform face,ABW
+zBlock_Abbey Wood Stn Ramp(21),zSet_Incline & Ramps,ABW
+zBlock_Abbey Wood Stn Set-down/Pick-up (Informal)(15),zSet_Set Down,ABW
+zBlock_Abbey Wood Stn Stairs - & halls or landings(17),zSet_Steps & Stairs,ABW
+zBlock_Abbey Wood Stn Stairs - & halls or landings(20),zSet_Steps & Stairs,ABW
+zBlock_Abbey Wood Stn Stairs - & halls or landings(3),zSet_Steps & Stairs,ABW
+zBlock_Abbey Wood Stn Stairs - & halls or landings(32),zSet_Steps & Stairs,ABW
+zBlock_Abbey Wood Stn Stairs - & halls or landings(41),zSet_Steps & Stairs,ABW
+zBlock_Abbey Wood Stn Stairs - & halls or landings(42),zSet_Steps & Stairs,ABW
+zBlock_Abbey Wood Stn Taxi rank(22),zSet_Taxi rank,ABW
+zBlock_Abbey Wood Stn Taxi rank(8),zSet_Taxi rank,ABW
+zBlock_Abbey Wood Stn Toilets (Disabled)(38),zSet_Sanitary facilities,ABW
+zBlock_Abbey Wood Stn Toilets (Public)(39),zSet_Sanitary facilities,ABW
+zBlock_Abbey Wood Stn Toilets (Public)(40),zSet_Sanitary facilities,ABW
+zBlock_Norwich Stn Access Route(11),zSet_Access Route,NRW
+zBlock_Norwich Stn Access Route(12),zSet_Access Route,NRW
+zBlock_Norwich Stn Access Route(15),zSet_Access Route,NRW
+zBlock_Norwich Stn Access Route(15),zSet_Steps & Stairs,NRW
+zBlock_Norwich Stn Access Route(17),zSet_Access Route,NRW
+zBlock_Norwich Stn Access Route(2),zSet_Access Route,NRW
+zBlock_Norwich Stn Access Route(20),zSet_Access Route,NRW
+zBlock_Norwich Stn Access Route(21),zSet_Access Route,NRW
+zBlock_Norwich Stn Access Route(5),zSet_Access Route,NRW
+zBlock_Norwich Stn Access Route(7),zSet_Access Route,NRW
+zBlock_Norwich Stn Baby Changing facilities(29),zSet_Sanitary facilities,NRW
+zBlock_Norwich Stn Bus stop(10),zSet_Bus Stop,NRW
+zBlock_Norwich Stn Bus stop(14),zSet_Bus Stop,NRW
+zBlock_Norwich Stn Bus stop(6),zSet_Bus Stop,NRW
+zBlock_Norwich Stn Bus stop(8),zSet_Bus Stop,NRW
+zBlock_Norwich Stn Car Parking - Disabled(1),zSet_Access Parking,NRW
+zBlock_Norwich Stn Concourse (Whole)(23),zSet_Concourse,NRW
+zBlock_Norwich Stn Concourse (Whole)(23),zSet_Gateline,NRW
+zBlock_Norwich Stn Concourse (Whole)(23),zSet_Ticket - Service-Retail Vending,NRW
+zBlock_Norwich Stn Cycle Locker(16),zSet_Cycle Parking,NRW
+zBlock_Norwich Stn Cycle Parking (shelter/rack)(13),zSet_Cycle Parking,NRW
+zBlock_Norwich Stn Cycle Parking (shelter/rack)(9),zSet_Cycle Parking,NRW
+zBlock_Norwich Stn Cycle rack(18),zSet_Cycle Parking,NRW
+zBlock_Norwich Stn Cycle rack(19),zSet_Cycle Parking,NRW
+zBlock_Norwich Stn Norwich,zSet_QA Questions,NRW
+zBlock_Norwich Stn Norwich,zSet_Station,NRW
+zBlock_Norwich Stn Platform Face(25),zSet_Platform face,NRW
+zBlock_Norwich Stn Platform Face(26),zSet_Platform face,NRW
+zBlock_Norwich Stn Platform Face(27),zSet_Platform face,NRW
+zBlock_Norwich Stn Platform Face(28),zSet_Platform face,NRW
+zBlock_Norwich Stn Platform Face(33),zSet_Platform face,NRW
+zBlock_Norwich Stn Platform Face(34),zSet_Platform face,NRW
+zBlock_Norwich Stn Set-down/Pick-up Point (Formal)(3),zSet_Set Down,NRW
+zBlock_Norwich Stn Taxi rank(4),zSet_Taxi rank,NRW
+zBlock_Norwich Stn Ticket Hall(22),zSet_Other Space,NRW
+zBlock_Norwich Stn Ticket Hall(22),zSet_Ticket - Service-Retail Vending,NRW
+zBlock_Norwich Stn Toilets (Disabled)(31),zSet_Sanitary facilities,NRW
+zBlock_Norwich Stn Toilets (Public)(30),zSet_Sanitary facilities,NRW
+zBlock_Norwich Stn Toilets (Public)(32),zSet_Sanitary facilities,NRW
+zBlock_Norwich Stn Waiting room,zSet_Waiting Room,NRW
+zBlock_Norwich Stn Waiting room(24),zSet_Waiting Room,NRW
